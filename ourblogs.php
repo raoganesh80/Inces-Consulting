@@ -1,7 +1,7 @@
 <?php require_once('config/config.php'); ?>
 
 <?php
-  $title = 'Our Blogs | Inces Consulting';
+  $title = 'Our Blogs | DesignNoise';
   $active_page = 'ourblogs';
   $base_url = '/';
   include('include/header.php');

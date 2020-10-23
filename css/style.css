@@ -29,6 +29,24 @@ h6 {
       background: url('../img/background/back2.png');
       margin-top: -336px;
     }
+
+/*-----********************************************************
+ ----> Section Custom background
+-------********************************************************/
+#about-us{
+  background-color: #f0cb26;
+}
+#team{
+  background-color:#29f5e4;
+}
+#blog{
+  background-color: #b154f0;
+}
+#services{
+  background-color: #d0eb5c;
+}
+
+
 /*-----********************************************************
  ----> Back to top button css
 -------********************************************************/

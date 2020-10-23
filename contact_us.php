@@ -1,7 +1,7 @@
 <?php require_once('config/config.php'); ?>
 
 <?php
-  $title = 'Contact us | Inces Consulting';
+  $title = 'Contact us | DesignNoise';
   $active_page = 'contact';
   $base_url = '/';
   include('include/header.php');
@@ -42,7 +42,7 @@
                             <div class="info">
                                 <div>
                                     <i class="ri-mail-send-line"></i>
-                                    <p>support@incesconsulting.com</p>
+                                    <p>support@designnoise.in</p>
                                 </div>
                                 <div>
                                     <i class="ri-phone-line"></i>

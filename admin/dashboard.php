@@ -10,7 +10,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
 
-  <title>Inces Consulting</title>
+  <title>DesignNoise</title>
   <!-- Google Fonts ************************************************** -->
   <link
     href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
@@ -91,7 +91,7 @@
         <div
           class="col-md-12 col-lg-12 col-xl-12 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1>Welcome Administrator!</h1>
-          <h2>This is dashboard of the server side of the Inces Consulting Website.</h2>
+          <h2>This is dashboard of the server side of the DesignNoise Website.</h2>
           <div>
             <a href="manageblog" class="btn-get-started scrollto">Manage Blogs</a>
             <a href="managemessage" class="btn-get-started scrollto">Manage Message</a>
@@ -215,7 +215,7 @@
             <h3>Contact Us</h3>
             <ul>
               <li>Email</li>
-              <li style="color: gray;">support@incesconsulting.com</li>
+              <li style="color: gray;">support@designnoise.in</li>
               <li>Phone</li>
               <li style="color: gray;">+91 8095545888</li>
             </ul>

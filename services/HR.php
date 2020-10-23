@@ -1,5 +1,5 @@
 <?php
-  $title = 'HR Services | Inces Consulting';
+  $title = 'HR Services | DesignNoise';
   $base_url = '../';
   $active_page = 'service';
   include('../include/header.php');

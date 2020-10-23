@@ -2,7 +2,7 @@
 ?>
 
 <?php
-  $title = 'Inces Consulting';
+  $title = 'DesignNoise';
   $active_page = 'home';
   $base_url = '';
   $google = "<script async src='https://www.googletagmanager.com/gtag/js?id=UA-167446818-1'></script>
@@ -112,7 +112,7 @@
               <div class="icon-box item1">
                 <div class="icon"><i class="fas fa-chart-line"></i></i></div>
                 <h4 class="title">Marketing</h4>
-                <p class="description">Inces combines in-depth customer insights and appropriate marketing solutions to
+                <p class="description">DesignNoise combines in-depth customer insights and appropriate marketing solutions to
                   reach your business's target customers.</p>
               </div>
             </a>
@@ -328,7 +328,7 @@
               <h4>MD, Utkal Plast Ltd.</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Inces Consultanting did an excellent job in carrying out a comprehensive operational transformation
+                DesignNoise Consultanting did an excellent job in carrying out a comprehensive operational transformation
                 across our plants. We were very impressed by the increase in the productivity of our resources in a
                 very short period of time.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>

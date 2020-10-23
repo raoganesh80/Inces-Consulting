@@ -1,7 +1,8 @@
 <?php 
 
     //Connect to the database
-    $con = mysqli_connect('localhost','u600108121_inces','~OAD8F1Ps','u600108121_inces');
+    $con = mysqli_connect('localhost','root','','inces_consulting');
+    //$con = mysqli_connect('localhost','u292419350_u426374726_','w;M*5ZpDF7','u292419350_u426374726_');
 
     //Function Clean String Values
     function escape($string) {

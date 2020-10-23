@@ -1,5 +1,5 @@
   <?php
-  $title = 'Marekting Services | Inces Consulting';
+  $title = 'Marekting Services | DesignNoise';
   $base_url = '../';
   $active_page = 'service';
   include('../include/header.php');
@@ -17,7 +17,7 @@
         <div class="row section-title">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12" >
             <h2>Service</h2>
-            <p> Inces combines in-depth customer insights and <br>appropriate marketing solutions to reach your
+            <p> DesignNoise combines in-depth customer insights and <br>appropriate marketing solutions to reach your
               business's target customers.</p>
           </div>
         </div>
@@ -50,7 +50,7 @@
           <div class="col-md-5 col-lg-5 col-xl-5 pt-5">
             <h3>Digital Marketing</h3>
             <p>
-              At Inces, we build a platform that interacts with your prospects while at the same time,
+              At DesignNoise, we build a platform that interacts with your prospects while at the same time,
               we create powerful online value proposition </p>
             <a onclick="Digital_Marketing()"><i class="icofont-arrow-right"></i>Learn More</a>
           </div>
@@ -75,7 +75,7 @@
             <h3>PR</h3>
             <p>
               Building trust and credibility for your brand is what helps you generate more leads.
-              Here at Inces, you get assistance with influencer and celebrity management.
+              Here at DesignNoise, you get assistance with influencer and celebrity management.
               We also manage successful execution of the campaign.
               Develop strategic communication process to build mutually beneficial relationships with the public.</p>
             <a onclick="PR()"><i class="icofont-arrow-right"></i>Learn More</a>

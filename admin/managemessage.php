@@ -10,7 +10,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
 
-  <title>Inces Consulting</title>
+  <title>DesignNoise</title>
 
  <!-- Google Fonts ************************************************** -->
  <link
@@ -190,7 +190,7 @@
             <h3>Contact Us</h3>
             <ul>
               <li>Email</li>
-              <li style="color: gray;">support@incesconsulting.com</li>
+              <li style="color: gray;">support@designnoise.in</li>
               <li>Phone</li>
               <li style="color: gray;">+91 8095545888</li>
             </ul>

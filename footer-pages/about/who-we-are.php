@@ -1,5 +1,5 @@
 <?php
-  $title = 'Who we are | Inces Consulting';
+  $title = 'Who we are | DesignNoise';
   $base_url = '../../';
   $active_page = 'about';
   include('../../include/header.php');
@@ -28,7 +28,7 @@
     <div class="container">
       <div class="section-title mb-5">
         <h2>OUR VALUES</h2>
-        <p>At Inces Consulting we have a firm set of core values that we hold in the highest regard.<br> These values
+        <p>At DesignNoise we have a firm set of core values that we hold in the highest regard.<br> These values
           define who we are and are the pillars against which we measure every success.</p>
       </div>
       <div class="d-flex flex-column align-items-end px-5">
@@ -45,7 +45,7 @@
         </div>
         <div class="article-left text-left mb-5">
           <h5>PEOPLE FOCUSED</h5>
-          <p>At Inces consulting we believe in exploring people's true potential - whether in our clients' organisations
+          <p>At DesignNoise we believe in exploring people's true potential - whether in our clients' organisations
             or our own. It is thanks to this deep and enduring commitment that we can be a catalyst for transformational
             change.
           </p>

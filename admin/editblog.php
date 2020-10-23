@@ -11,7 +11,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
 
-  <title>Inces Consulting</title>
+  <title>DesignNoise</title>
 
  <!-- Google Fonts ************************************************** -->
  <link

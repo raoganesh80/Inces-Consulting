@@ -1,5 +1,5 @@
 <?php
-  $title = 'Web Development Services | Inces Consulting';
+  $title = 'Web Development Services | DesignNoise';
   $base_url = '../';
   $active_page = 'service';
   include('../include/header.php');

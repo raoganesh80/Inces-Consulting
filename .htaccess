@@ -1,11 +1,11 @@
 
-# DO NOT REMOVE THIS LINE AND THE LINES BELLOW SSL_REDIRECT:incesconsulting.com
+# DO NOT REMOVE THIS LINE AND THE LINES BELLOW SSL_REDIRECT:designnoise.in
 RewriteEngine on
 RewriteCond %{HTTPS} off
-RewriteCond %{HTTP_HOST} (www\.)?incesconsulting.com
+RewriteCond %{HTTP_HOST} (www\.)?designnoise.in
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 RewriteCond %{QUERY_STRING} .
 RewriteRule (.*) $1?
-# DO NOT REMOVE THIS LINE AND THE LINES BELLOW SSL_REDIRECT:incesconsulting.com
+# DO NOT REMOVE THIS LINE AND THE LINES BELLOW SSL_REDIRECT:designnoise.in

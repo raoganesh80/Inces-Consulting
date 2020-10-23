@@ -35,7 +35,7 @@
             <h3>Contact Us</h3>
             <ul>
               <li>Email</li>
-              <li style="color: gray;">support@incesconsulting.com</li>
+              <li style="color: gray;">support@designnoise.in</li>
               <li>Phone</li>
               <li style="color: gray;">+91 8095545888</li>
             </ul>
